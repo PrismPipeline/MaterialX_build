@@ -3,5 +3,5 @@ requires = ["setuptools>=61.0.0", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "OpenUSD_build"
-version = "1.0"
+name = "MaterialX"
+version = "1.38.3"
